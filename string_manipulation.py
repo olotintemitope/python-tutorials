@@ -1,5 +1,3 @@
-
-
 name = "adebayo adebusoye"
 
 isJava = name.find("java")
